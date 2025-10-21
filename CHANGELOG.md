@@ -2,6 +2,10 @@
 
 ## main (unreleased)
 
+## 0.4.1 (2025-10-21)
+
+- Remove unwanted upstream changes
+
 ## 0.4.0 (2025-10-17)
 
 * Support Rails 7.2
