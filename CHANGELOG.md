@@ -1,6 +1,9 @@
 # Change log
 
-## main (unreleased)
+## 0.5.0 (2026-04-07)
+
+- Remove sass-rails dependency (no longer needed after migrating to dartsass-sprockets)
+- Remove obsolete iframe transport middleware (IE9 support)
 
 ## 0.4.1 (2025-10-21)
 
