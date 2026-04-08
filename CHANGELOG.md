@@ -1,5 +1,10 @@
 # Change log
 
+## 0.6.0 (2026-04-08)
+
+- Support Rails 8.1
+- Drop support for Rails 7.2
+
 ## 0.5.0 (2026-04-07)
 
 - Remove sass-rails dependency (no longer needed after migrating to dartsass-sprockets)
